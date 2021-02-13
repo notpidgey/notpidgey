@@ -1,18 +1,6 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My Github Data** 
-
-> 🏆 80 Contributions in the Year 2021
- > 
-> 📦 82.8 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 7 Public Repositories 
- > 
-> 🔑 6 Private Repositories  
- > 
 **I'm a Night 🦉** 
 
 ```text
@@ -39,8 +27,6 @@ Sunday       44 commits     █████░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: America/New_York
-
 💬 Programming Languages: 
 C++                      8 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   41.57% 
 C                        4 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   19.03% 
@@ -63,10 +49,6 @@ Java                     2 repos             ████░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/LilPidgey/LilPidgey/main/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
