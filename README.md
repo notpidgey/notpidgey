@@ -1,4 +1,3 @@
-![](https://hit.yhype.me/github/profile?user_id=42968544)
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
@@ -46,7 +45,6 @@ C++                      5 repos             █████████░░�
 Java                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38%
 
 ```
-
-
-
 <!--END_SECTION:waka-->
+
+![](https://hit.yhype.me/github/profile?user_id=42968544)
