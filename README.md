@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=lilpidgey&color=red)
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
@@ -46,5 +47,5 @@ Java                     2 repos             ███░░░░░░░░�
 
 ```
 <!--END_SECTION:waka-->
-
 ![](https://hit.yhype.me/github/profile?user_id=42968544)
+![](https://komarev.com/ghpvc/?lilpidgey)
