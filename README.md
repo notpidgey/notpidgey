@@ -1,6 +1,5 @@
+![](https://hit.yhype.me/github/profile?user_id=42968544)
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
-
 **I'm a Night 🦉** 
 
 ```text
