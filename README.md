@@ -27,11 +27,10 @@ Sunday       28 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      36 mins             █████████████████████████   99.69% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Rider                    36 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -47,7 +46,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/11/2021
+ Last Updated on 10/11/2021
 <!--END_SECTION:waka-->
 ![](https://hit.yhype.me/github/profile?user_id=42968544)
 ![](https://komarev.com/ghpvc/?lilpidgey)
