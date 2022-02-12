@@ -27,10 +27,12 @@ Sunday       40 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Solution File            0 secs              █████████████░░░░░░░░░░░░   53.45% 
+Markdown                 0 secs              ███████████░░░░░░░░░░░░░░   46.36% 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Rider                    0 secs              █████████████████████████   100.0%
 
 ```
 
@@ -46,7 +48,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/02/2022 18:45:51 UTC
+ Last Updated on 12/02/2022 18:44:41 UTC
 <!--END_SECTION:waka-->
 ![](https://hit.yhype.me/github/profile?user_id=42968544)
 ![](https://komarev.com/ghpvc/?lilpidgey)
