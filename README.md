@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=lilpidgey&color=red)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C353%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C356%20hrs%2013%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -29,10 +29,13 @@ Sunday       56 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       2 hrs 18 mins       ███████████████████████░░   93.38% 
+GitIgnore file           5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.38% 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.24% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Rider                    2 hrs 28 mins       █████████████████████████   100.0%
 
 ```
 
@@ -48,7 +51,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/11/2022 18:47:48 UTC
+ Last Updated on 06/11/2022 18:48:01 UTC
 <!--END_SECTION:waka-->
 ![](https://hit.yhype.me/github/profile?user_id=42968544)
 ![](https://komarev.com/ghpvc/?lilpidgey)
