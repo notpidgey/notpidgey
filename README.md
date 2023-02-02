@@ -29,10 +29,12 @@ Sunday       40 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       1 hr 10 mins        ███████████████░░░░░░░░░░   62.29% 
+JavaScript               42 mins             █████████░░░░░░░░░░░░░░░░   37.71%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Rider                    1 hr 10 mins        ███████████████░░░░░░░░░░   62.29% 
+VS Code                  42 mins             █████████░░░░░░░░░░░░░░░░   37.71%
 
 ```
 
@@ -49,7 +51,7 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/02/2023 18:43:18 UTC
+ Last Updated on 02/02/2023 18:43:30 UTC
 <!--END_SECTION:waka-->
 ![](https://hit.yhype.me/github/profile?user_id=42968544)
 ![](https://komarev.com/ghpvc/?lilpidgey)
