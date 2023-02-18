@@ -29,11 +29,10 @@ Sunday          39 commits       ███░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Vue.js                   24 mins             █████████████████████████   99.88 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 ```
 
@@ -50,7 +49,7 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/02/2023 18:43:35 UTC
+ Last Updated on 18/02/2023 18:41:04 UTC
 <!--END_SECTION:waka-->
 ![](https://hit.yhype.me/github/profile?user_id=42968544)
 ![](https://komarev.com/ghpvc/?lilpidgey)
