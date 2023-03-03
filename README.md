@@ -27,12 +27,10 @@ Sunday                   346 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Rust                     50 mins             ███████████████████░░░░░░   76.29 % 
-TOML                     15 mins             ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 6 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -48,7 +46,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/03/2023 18:46:32 UTC
+ Last Updated on 03/03/2023 18:42:12 UTC
 <!--END_SECTION:waka-->
 ![](https://hit.yhype.me/github/profile?user_id=42968544)
 ![](https://komarev.com/ghpvc/?lilpidgey)
