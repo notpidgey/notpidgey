@@ -36,17 +36,17 @@ No Activity Tracked This Week
 **I Mostly Code in C++** 
 
 ```text
-C++                      13 repos            ██████████████░░░░░░░░░░░   56.52 % 
-C#                       6 repos             ███████░░░░░░░░░░░░░░░░░░   26.09 % 
-Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+C++                      12 repos            ██████████████░░░░░░░░░░░   54.55 % 
+C#                       6 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
 
 
 
 
- Last Updated on 16/06/2023 18:40:13 UTC
+ Last Updated on 17/06/2023 18:40:24 UTC
 <!--END_SECTION:waka-->
 ![](https://hit.yhype.me/github/profile?user_id=42968544)
 ![](https://komarev.com/ghpvc/?lilpidgey)
