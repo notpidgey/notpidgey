@@ -1,5 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=lilpidgey&color=red)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C491%20hrs%2018%20mins-blue)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -44,7 +46,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/04/2024 22:58:41 UTC
+ Last Updated on 15/04/2024 18:40:34 UTC
 <!--END_SECTION:waka-->
 ![](https://hit.yhype.me/github/profile?user_id=42968544)
 ![](https://komarev.com/ghpvc/?lilpidgey)
